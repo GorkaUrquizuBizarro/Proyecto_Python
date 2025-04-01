@@ -3,7 +3,6 @@
 ### Descripción
 
     En este proyecto aplicarás los conocimientos aprendidos en el módulo "Python".
-
     Para realizar este proyecto tienes que seguir las especificaciones recogidas en la lección "Lógica: Katas Python" de este módulo.
 
 ### Requisitos
