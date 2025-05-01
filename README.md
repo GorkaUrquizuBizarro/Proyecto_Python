@@ -2,7 +2,7 @@
 
 ### Descripción
 
-    En este proyecto se aplican los conocimientos aprendidos en el módulo "Python" resolviendo una serie de catas propuestas al final del módulo de Python.
+    En este proyecto se aplican los conocimientos aprendidos en el módulo de "Python" resolviendo una serie de catas propuestas al final del módulo.
 
 ### Requisitos
 
