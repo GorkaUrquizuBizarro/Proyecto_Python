@@ -2,8 +2,7 @@
 
 ### Descripción
 
-    En este proyecto aplicarás los conocimientos aprendidos en el módulo "Python".
-    Para realizar este proyecto tienes que seguir las especificaciones recogidas en la lección "Lógica: Katas Python" de este módulo.
+    En este proyecto se aplican los conocimientos aprendidos en el módulo "Python" resolviendo una serie de catas propuestas al final del módulo de Python.
 
 ### Requisitos
 
